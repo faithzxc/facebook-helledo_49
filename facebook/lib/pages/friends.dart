@@ -13,3 +13,4 @@ class _FriendsPageState extends State<FriendsPage> {
     return const Scaffold();
   }
 }
+  
